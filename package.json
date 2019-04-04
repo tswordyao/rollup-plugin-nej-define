@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-nej-define",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nej bundle require to define",
   "main": "index.js",
   "scripts": {
