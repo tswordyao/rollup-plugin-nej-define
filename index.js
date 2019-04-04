@@ -9,4 +9,4 @@ const nejBundleRequireToDefinePlugin = function(){
     }; 
 }
 
-export default nejBundleRequireToDefinePlugin;
+module.exports =nejBundleRequireToDefinePlugin;
