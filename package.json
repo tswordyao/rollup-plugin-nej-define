@@ -1,0 +1,24 @@
+{
+  "name": "rollup-plugin-nej-define",
+  "version": "1.0.1",
+  "description": "nej bundle require to define",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswordyao/rollup-plugin-nej-require.git"
+  },
+  "keywords": [
+    "nej",
+    "define",
+    "require"
+  ],
+  "author": "Evan Yao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tswordyao/rollup-plugin-nej-require/issues"
+  },
+  "homepage": "https://github.com/tswordyao/rollup-plugin-nej-require#readme"
+}
