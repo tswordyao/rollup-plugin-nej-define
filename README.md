@@ -1,1 +1,3 @@
-# rollup-plugin-nej-require
+# rollup-plugin-nej-define
+
+ nej Bundle Require To Define Plugin
